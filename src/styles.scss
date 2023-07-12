@@ -1,0 +1,14 @@
+.c-box {
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  &--red {
+    background: #d50227;
+  }
+  &--orange {
+    background: #d54702;
+  }
+  &--pink {
+    background: #d50291;
+  }
+}
